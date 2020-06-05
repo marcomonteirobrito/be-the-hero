@@ -25,6 +25,12 @@ Durante a Semana Omnistack 11.0, criamos do zero uma aplicação completa. desti
 	<img alt="" title="" src="imagens/cadastroDeCasos.PNG">
 </p>
 
+## Aplicação mobile
+
+<p align="center">
+	<img src="imagens/beTheHero.gif" width="300" height="600"/>
+</p>
+
 <h2><strong>:satellite: Algumas das tecnologias utilizadas*</strong></h2>
 
 <h3>Back-end (NodeJS)</h3>
@@ -55,9 +61,11 @@ Durante a Semana Omnistack 11.0, criamos do zero uma aplicação completa. desti
 
 ### Instalando aplicação
 
-Execute o comando <img alt="npminstall" src="imagens/npmInstall.PNG"> na raiz das pastas (backend, frontend e mobile) para instalar as dependências.
+Execute o comando ```npm install``` na raiz das pastas (backend, frontend e mobile) para instalar as dependências.
+<img alt="npminstall" src="imagens/npmInstall.PNG"> 
 
-Após executado o código acima, execute o comando <img alt="npmstart" src="imagens/npmStart.PNG"> na raiz de cada projeto.
+Após executado o código acima, execute o comando ```npm start``` na raiz de cada projeto.
+<img alt="npmstart" src="imagens/npmStart.PNG">
 
 > Obs: Baixe o aplicativo EXPO no seu celular pela APPLE STORE ou PLAY STORE.
 > Obs: Quando executar o comando npm start no projeto mobile, será aberto uma tela no seu navegador, anote o numero circulado na imagem abaixo que corresponde ao seu computador.
@@ -68,13 +76,9 @@ Após executado o código acima, execute o comando <img alt="npmstart" src="imag
 
 Com o número anotado, entre no arquivo api.js dentro de services. Altere o código de acordo com o que apareceu no seu expo, mantendo a porta ```:3333``` sem alteração. Somente altere o código antes da porta e reinicie o comando ```npm start```.
 
+<img alt="" src="imagens/api.PNG">
+
 Com o aplicativo da EXPO no seu celular, escaneie o QR CODE que abriu no navegador. Lembrando que o celular precisa estar na mesma rede de WIFI que o notebook/PC que esta abrindo a aplicação.
-
-## Aplicação mobile
-
-<p align="center">
-	<img src="imagens/beTheHero.gif" width="300" height="600"/>
-</p>
 
  
 Dúvidas entre em contato pelo <h4 align="center"> <a href="https://www.linkedin.com/in/marco-antonio-monteiro-de-brito-541ba0144/" target="_blank">Linkedin</a> </h4>
