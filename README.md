@@ -18,13 +18,6 @@ Durante a Semana Omnistack 11.0, criamos do zero uma aplicação completa. desti
 
 ## Telas aplicação web 
 
-> Obs: Lembre-se de anotar o id de acesso fornecido durante o cadastro da ONGs para efetuar o login.
-
-<h1 align="center">
-    <img alt="" src="imagens/idDeacesso.PNG">
-</h1>
-
-
 <p align="center">
 	<img alt="" title="" src="imagens/home.PNG">
 	<img alt="" title="" src="imagens/cadastroOng.PNG">
@@ -62,9 +55,9 @@ Durante a Semana Omnistack 11.0, criamos do zero uma aplicação completa. desti
 
 ### Instalando aplicação
 
-Execute o comando <img alt="npminstall" src="imagens/npmInstall.PNG" height="18"> na raiz das pastas (backend, frontend e mobile) para instalar as dependências.
+Execute o comando <img alt="npminstall" src="imagens/npmInstall.PNG"> na raiz das pastas (backend, frontend e mobile) para instalar as dependências.
 
-Após executado o código acima, execute o comando <img alt="npmstart" src="imagens/npmStart.PNG" height="18"> na raiz de cada projeto.
+Após executado o código acima, execute o comando <img alt="npmstart" src="imagens/npmStart.PNG"> na raiz de cada projeto.
 
 > Obs: Baixe o aplicativo EXPO no seu celular pela APPLE STORE ou PLAY STORE.
 > Obs: Quando executar o comando npm start no projeto mobile, será aberto uma tela no seu navegador, anote o numero circulado na imagem abaixo que corresponde ao seu computador.
